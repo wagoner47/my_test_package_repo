@@ -18,8 +18,9 @@ There's no way to cite this code right now.  But it would be great if you acknow
 
 .. toctree::
    :maxdepth: 2
-   :second_doc:
    :caption: Contents:
+   
+   second_doc
 
 Indices and tables
 ==================
