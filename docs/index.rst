@@ -6,10 +6,6 @@
 Welcome to my_test_package's documentation!
 ===========================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 This package does some neat stuff!  It's features include:
 
 * A cool thing
@@ -19,6 +15,10 @@ This package does some neat stuff!  It's features include:
 Citing this code
 ----------------
 There's no way to cite this code right now.  But it would be great if you acknowledge Erika Wagoner if you use it.  Someday I hope to put it up on `Zenodo <https://zenodo.org/>`_, though...
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
 Indices and tables
 ==================
